@@ -29,7 +29,7 @@ color: #212121;
                 font-size: 26px;
                 line-height: 1.2;
                 letter-spacing: 0.03em;
-                color:var(--primary-text-color);
+                color:var(--third-text-color);
             }
             .logo-btn{
                 font-family: Raleway;
@@ -168,4 +168,7 @@ color: var(--second-text-color)
     padding: 0;
     clip-path: inset(50%);
     margin: -1px;
+}
+.footercolor{
+    background-color:#2F303A;
 }
